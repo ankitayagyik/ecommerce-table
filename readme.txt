@@ -1,5 +1,5 @@
 === Ecommerce Table ===
-Contributors: mukkiee
+Contributors: ankita
 Tags: table, tabular products, ecommerce, ecommerce table, products, products table, 
 Requires at least: 5.5.3
 Tested up to: 5.6
