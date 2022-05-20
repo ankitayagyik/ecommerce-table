@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This Plugin arrange products into tabular format.
 
 == Description ==
-**Ecommerce Table** display Woocommerce products in tabular format, allow user to add multiple products to cart from a single window, this plugin uses ajax to add products to cart.
+**Ecommerce Table** Display Woocommerce products in tabular format, allow user to add multiple products to cart from a single window, this plugin uses ajax to add products to cart.
 Highly customizable css code to display products as it uses css grid layout. Product Variations are managed in table
 
 
